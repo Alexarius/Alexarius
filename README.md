@@ -46,8 +46,6 @@ more_background:
 <a href="mailto:jukkim046@knu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/rktmanindahouse" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
-<div onclick="window.open('https://www.instagram.com/rktmanindahouse')" style="cursor:pointer"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white"></div>
-
 [![Alexarius's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexarius&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlexarius&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
