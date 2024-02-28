@@ -20,7 +20,7 @@ fields_of_interests:
     "Web Development",
     "Data Science",
     "Machine Learning",
-    "Internet of Things",
+    "Internet of Things"
   ]
 
 more_background:
