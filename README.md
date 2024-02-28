@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hello!&height=100&section=header"/>
 </p>
 
-<h2>👋A Little Bit About Me and My Interests</h2>
+<h2>👋A Little bit about Me and my interests</h2>
 
 ```yaml
 name: Ji-uk Kim
@@ -42,6 +42,8 @@ more_background:
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ## Reach Me on📫:
 <a href="mailto:jukkim046@knu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/rktmanindahouse" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
@@ -52,6 +54,5 @@ more_background:
 
 <!--
 <a href="{연결할 링크}" target="_blank"><img src="https://img.shields.io/badge/{쓰고 싶은 텍스트}-{컬러 코드}?style=flat-square&logo={브랜드 이름}&logoColor=white"/></a>
-
 https://github.com/Ileriayo/markdown-badges
 -->
