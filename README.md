@@ -1,25 +1,56 @@
 # Ji-uk Kim
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hello!&height=100&section=header"/>
+</p>
 
-### Hi there 👋
+<h2>👋A Little Bit About Me and My Interests</h2>
 
-<!--
-**min-0/min-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```yaml
+name: Ji-uk Kim
+located_in: Daegu, South Korea
+
+education:
+  [
+    "Self-Taught Developer",
+    "Undergraduate in Computer Science & Engineering"
+  ]
+
+fields_of_interests:
+  [
+    "Web Development",
+    "Data Science",
+    "Machine Learning",
+    "Internet of Things",
+  ]
+
+more_background:
+  [
+    "Google Youth Summer Institute Graduate",
+    "Former Interpreter Airman @ ROKAF AFOC AMD & USAF 607 AOC AMD",
+  ]
+
+```
+
+## I have experience on👨🏻‍💻:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+## I currently have interest on🌱:
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+## Reach Me on📫:
+<a href="(https://www.instagram.com/rktmanindahouse/)" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
 [![Alexarius's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexarius&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlexarius&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <!--
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmin-0&count_bg=%2345DF22&title_bg=%23555555&icon=github.svg&icon_color=%23FFE4C4&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<a href="블로그 주소"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=블로그 주소"/></a>
-<a href="인스타그램 주소" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-출처: https://min-0.tistory.com/entry/Git-Github-Profile-깃허브-꾸미기-줄여서-깃꾸-ㅋㅋ [min-0's  Growth Diary:티스토리]
+<a href="{연결할 링크}" target="_blank"><img src="https://img.shields.io/badge/{쓰고 싶은 텍스트}-{컬러 코드}?style=flat-square&logo={브랜드 이름}&logoColor=white"/></a>
+
+https://github.com/Ileriayo/markdown-badges
 -->
