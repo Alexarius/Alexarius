@@ -31,12 +31,12 @@ more_background:
 
 ## 🏆 Awards & Achievements
 <div align=left>
-  <h5>🥈 2nd Place, CS++ X Enactus X Innovate4Sustainability Hackathon, TU Dublin <i>(Dec 2025)</i></h5>
-  <h5>🥇 1st Position, Hackathon of Machine Learning with Audio Analysis, Univ. of Tasmania <i>(Jul 2025)</i></h5>
-  <h5>🏆 Grand Prize, 2024 Entrepreneurship Hackathon Competition, KNU <i>(Dec 2024)</i></h5>
-  <h5>🌟 Outstanding Program Performance, Silicon Valley Innovation & Startup Program, SJSU <i>(Aug 2024)</i></h5>
-  <h5>🥇 Entrepreneurship Award Grand Prize, Silicon Valley Software & AI Program, SJSU <i>(Aug 2024)</i></h5>
-  <h5>📜 Letters of Recommendation, Col. Sung-seob Hwang (ROKAF) & Lt. Col. Jeffrey Dierdorf (USAF) <i>(Dec 2023)</i></h5>
+  <h5>🥈 2nd Place, CS++ X Enactus X Innovate4Sustainability Hackathon, Technological University Dublin <i>(Dec 2025)</i></h5>
+  <h5>🥇 1st Position, Hackathon of Machine Learning with Audio Analysis, University of Tasmania <i>(Jul 2025)</i></h5>
+  <h5>🏆 Grand Prize, 2024 Entrepreneurship Hackathon Competition, Kyungpook National University <i>(Dec 2024)</i></h5>
+  <h5>🌟 Outstanding Program Performance, Silicon Valley Innovation & Startup Program, San Jose State University <i>(Aug 2024)</i></h5>
+  <h5>🥇 Entrepreneurship Award Grand Prize, Silicon Valley Software & AI Program, San Jose State University <i>(Aug 2024)</i></h5>
+  <h5>📜 Letters of Recommendation, Col. Sung-seob Hwang (ROK Air Force) & Lt. Col. Jeffrey Dierdorf (US Air Force) <i>(Dec 2023)</i></h5>
   <h5>🎖️ Recognition of Superior Performance Ulchi Freedom Shield ’23 & ’22, US Air Force <i>(Aug 2023, Sept 2022)</i></h5>
 </div>
 <br>
